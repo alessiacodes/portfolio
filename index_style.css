@@ -6,7 +6,7 @@
 
 * {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "Poppins", Arial, sans-serif;
 }
 
 html{
@@ -36,6 +36,8 @@ header nav ul {
 }
 
 header nav li {
+    font-weight: 500;
+    font-size: 20px;
     margin-left: 40px;
 }
 
