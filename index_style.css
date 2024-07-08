@@ -30,6 +30,8 @@ header {
     height: 30vh;
     margin-bottom: -15%;
     background: linear-gradient(to bottom, var(--dark-blue), transparent);
+    position: sticky;
+    top: 0;
 }
 
 header nav ul {
